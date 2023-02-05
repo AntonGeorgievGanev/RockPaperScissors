@@ -3,20 +3,20 @@ Game Rock Scissors Paper
 
 Valid Input data can be:
 
-r
-R
-rock
-Rock
+"r"
+"R"
+"rock"
+"Rock"
 -----
-s
-S
-scissors
-Scissors
+"s"
+"S"
+"scissors"
+"Scissors"
 ---------
-p
-P
-paper
-Paper
+"p"
+"P"
+"paper"
+"Paper"
 --------
 
 The Game continues until is typed end.
