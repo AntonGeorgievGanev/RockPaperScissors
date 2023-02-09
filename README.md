@@ -1,4 +1,4 @@
-# RockScissorsPaper
+# RockPaperScissors
 Game Rock Scissors Paper
 
 Valid Input data can be:
